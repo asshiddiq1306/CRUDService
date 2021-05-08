@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/7919720/Documents/WSDL/Centagate_v1.3_1.wsdl" uri="src/conf/xml-resources/web-service-references/Centagate_v1.3_1/wsdl/Centagate_v1.3_1.wsdl"/>
+    <system systemId="file:/D:/Exercise/Netbeans/DeleteDataRegistBL/src/java/WSDL/CBS_Listing_AccountStatement.wsdl" uri="src/conf/xml-resources/web-service-references/CBS_Listing_AccountStatement/wsdl/CBS_Listing_AccountStatement.wsdl"/>
+    <system systemId="file:/D:/Exercise/Netbeans/DeleteDataRegistBL/src/java/WSDL/Centagate_v1.3_1.wsdl" uri="src/conf/xml-resources/web-service-references/Centagate_v1.3_1/wsdl/Centagate_v1.3_1.wsdl"/>
+</catalog>
