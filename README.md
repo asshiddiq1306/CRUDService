@@ -1,5 +1,7 @@
 # MTICrud
 
+Aplikasi ini merupakan api yang akan langsung terhubung dengan SQL Server
+
 Untuk menjalanakan aplikasi:
 1. Download server Apache Tomcat
 2. Build aplikasi dengan menggunakan Netbeans
