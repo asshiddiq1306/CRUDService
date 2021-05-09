@@ -43,9 +43,9 @@ Contributor(s):
 <hibernate-configuration>
   <session-factory>
     <property name="hibernate.connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
-    <property name="hibernate.connection.url">jdbc:sqlserver://192.168.1.7;</property>
-    <property name="hibernate.connection.username">sa</property>
-    <property name="hibernate.connection.password">sidik123</property>
+    <property name="hibernate.connection.url">jdbc:sqlserver://localhost;</property>
+    <property name="hibernate.connection.username">{USERNAME SQL SERVER}</property>
+    <property name="hibernate.connection.password">{PASSWORD SQL SERVER}</property>
     <property name="hibernate.show_sql">true</property>
     <property name="hibernate.connection.autocommit">false</property>
     <property name="hibernate.dialect">org.hibernate.dialect.SQLServer2008Dialect</property>
